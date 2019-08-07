@@ -1,0 +1,10 @@
+function truthCheck(collection, pre) {
+  // Is everyone being true?
+  return collection.every(function(obj) {
+    return obj.hasOwnProperty(pre) && !!obj[pre];
+  });
+}
+
+truthCheck([{"user": "Tinky-Winky", "sex": "male"}, {"user": "Dipsy", "sex": "male"}, {"user": "Laa-Laa", "sex": "female"}, {"user": "Po", "sex": "female"}], "sex");
+
+// Luu y: De chuyen mot gia tri nao day ve dang boolean (true/false), ta dat !! ngay truoc no. 
