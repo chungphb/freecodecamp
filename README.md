@@ -1,2 +1,2 @@
 # freecodecamp-2017
-Some problems from freeCodeCamp.org.
+**Nội dung:** Đáp án một số bài toán được dẫn từ trang freeCodeCamp.org.
