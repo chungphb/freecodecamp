@@ -1,2 +1,2 @@
 # freecodecamp-2017
-**Nội dung:** Đáp án một số bài toán được dẫn từ trang freeCodeCamp.org.
+**Nội dung:** Lời giải một số bài tập JavaScript thuộc freeCodeCamp.org.
